@@ -32,8 +32,8 @@ Below are some design images showcasing how our website will look:
 
 ## Contact Us
 Have questions or need assistance? Feel free to reach out to our friendly customer support team:
-- **Email:** support@yesgadgets.com
-- **Phone:** 1-800-YES-GADG (1-800-937-4234)
+- **Email:** info@yesgadgets.com
+- **Phone:** 
 
 ## Stay Connected
 Follow us on social media to stay updated on the latest product releases, promotions, and tech news:
