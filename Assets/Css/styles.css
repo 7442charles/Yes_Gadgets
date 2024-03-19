@@ -44,3 +44,17 @@ body {
 .laptops img{
     height: 150px;
 }
+
+.mini-div {
+  border: 1px solid #ccc;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #fcccbf;
+  color: #f6928b;
+}
+
+.mini-div.active {
+  background-color: #ec1e24;
+  color: white;
+}
